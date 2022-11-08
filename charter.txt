@@ -1,8 +1,13 @@
-<group name>
+Group 4
 
-Meetings:  List time 
+Meetings:
+Tuesday 11:30am-1:30pm
+Thursday 12pm-12:30pm
 
-Group Contacts: 
+Group Contacts:
+William Kwas: wekwas@uwm.edu
+Collin Anglese: canglese@uwm.edu
+
 
 Goals: 
 1. To adhere well as a group, respecting each member, and supporting each member by 
@@ -20,22 +25,25 @@ together a team project.
 Response time to communication expectations
  - Always show up to meetings (Scrums)
  - If someone reaches out for help respond to them with a helpful answer within 3 days
-  - Do what is assigned to you 
+ - Do what is assigned to you 
  
 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
  - Work is well done, not just finished but also looks good and works well.
- -Everyone can agree that it is done
+ - Everyone can agree that it is done
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
- -Meet over teams
- -Meet thursday over teams (also talk during lab on Tuesdays)
+ - Meet over teams
+ - Meet thursday over teams (also talk during lab on Tuesdays)
  - Meeting will take 30 minutes (Can go longer/shorter)
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
+ - During meetings everyone present should agree on policies
 
 Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
+ - 3 strikes for unresponsive/unproductive team member
+ - Everyone agrees during a meeting if someone deserves a strike
 
 Signatures (Everyone type there name): Collin Anglese, William Kwas
