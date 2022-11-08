@@ -7,18 +7,15 @@ Thursday 12pm-12:30pm
 Group Contacts:
 William Kwas: wekwas@uwm.edu
 Collin Anglese: canglese@uwm.edu
+Daniel Brennan: brenna48@uwm.edu
 
 
 Goals: 
-1. To adhere well as a group, respecting each member, and supporting each member by 
-working together to accomplish the goals listed below and adhering to this charter. 
+1. Effectivley communicate with team, show up to every meeting
 
-2. To gain a more intimate knowledge of the software life cycle by working as a group to 
-develop a quality product worth an “A”.  
+2. Learn more about creating and maintaing websites through Django.  
 
-3. To attain practical knowledge and experience of what it means to be a software engineer 
-and to familiarize ourselves with the methods and practices that are required to pull 
-together a team project.  
+3. Completeing quality work on time. 
 
 
 
@@ -29,8 +26,10 @@ Response time to communication expectations
  
 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
- - Work is well done, not just finished but also looks good and works well.
- - Everyone can agree that it is done
+ - Classes and methods passing test with edgecases taken into account. 
+ - Each user story is satisfied.
+ - The code adheres to SOLID principles.
+ - Everyone has reviewed the code.
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
  - Meet over teams
@@ -46,4 +45,4 @@ must include at least 3 actions before involving the instructor
  - 3 strikes for unresponsive/unproductive team member
  - Everyone agrees during a meeting if someone deserves a strike
 
-Signatures (Everyone type there name): Collin Anglese, William Kwas
+Signatures (Everyone type there name): Collin Anglese, William Kwas, Daniel Brennan
