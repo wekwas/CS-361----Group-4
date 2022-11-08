@@ -1,0 +1,31 @@
+<group name>
+
+Meetings:  List time 
+
+Group Contacts: 
+
+Goals: 
+1. To adhere well as a group, respecting each member, and supporting each member by 
+working together to accomplish the goals listed below and adhering to this charter. 
+
+2. To gain a more intimate knowledge of the software life cycle by working as a group to 
+develop a quality product worth an “A”.  
+
+3. To attain practical knowledge and experience of what it means to be a software engineer 
+and to familiarize ourselves with the methods and practices that are required to pull 
+together a team project.  
+
+
+Response time to communication expectations
+
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+
+Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+
+Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+if you adopt such a policy during the initial meeting, put it here
+
+Procedure for handling a member who is not meeting expectations
+must include at least 3 actions before involving the instructor
+
+Signatures: each member must sign their name by typing their name at the bottom of the document.
